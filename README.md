@@ -1,5 +1,3 @@
-Esse processo de auditoria e monitoramento dos recebimentos de cargas com foco nos produtos PAR de alto risco parece ser uma solução de grande importância para o controle de segurança. Para deixar claro o objetivo, funcionamento e a estrutura do repositório, aqui está uma sugestão de **README.md** para esse repositório, para documentar de forma clara o que o processo faz e como ele se integra ao sistema.
-
 ---
 
 # 🛠️ Auditoria de Recebimentos de Cargas - Monitoramento de Produtos PAR de Alto Risco
